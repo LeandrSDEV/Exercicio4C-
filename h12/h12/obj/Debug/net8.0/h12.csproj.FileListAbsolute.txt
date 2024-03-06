@@ -1,0 +1,14 @@
+C:\Users\leandro.santos\Documents\Programando C#\Nova pasta\h12\h12\obj\Debug\net8.0\h12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandro.santos\Documents\Programando C#\Nova pasta\h12\h12\obj\Debug\net8.0\h12.AssemblyInfoInputs.cache
+C:\Users\leandro.santos\Documents\Programando C#\Nova pasta\h12\h12\obj\Debug\net8.0\h12.AssemblyInfo.cs
+C:\Users\leandro.santos\Documents\Programando C#\Nova pasta\h12\h12\obj\Debug\net8.0\h12.csproj.CoreCompileInputs.cache
+C:\Users\leandro.santos\Documents\Programando C#\Nova pasta\h12\h12\bin\Debug\net8.0\h12.exe
+C:\Users\leandro.santos\Documents\Programando C#\Nova pasta\h12\h12\bin\Debug\net8.0\h12.deps.json
+C:\Users\leandro.santos\Documents\Programando C#\Nova pasta\h12\h12\bin\Debug\net8.0\h12.runtimeconfig.json
+C:\Users\leandro.santos\Documents\Programando C#\Nova pasta\h12\h12\bin\Debug\net8.0\h12.dll
+C:\Users\leandro.santos\Documents\Programando C#\Nova pasta\h12\h12\bin\Debug\net8.0\h12.pdb
+C:\Users\leandro.santos\Documents\Programando C#\Nova pasta\h12\h12\obj\Debug\net8.0\h12.dll
+C:\Users\leandro.santos\Documents\Programando C#\Nova pasta\h12\h12\obj\Debug\net8.0\refint\h12.dll
+C:\Users\leandro.santos\Documents\Programando C#\Nova pasta\h12\h12\obj\Debug\net8.0\h12.pdb
+C:\Users\leandro.santos\Documents\Programando C#\Nova pasta\h12\h12\obj\Debug\net8.0\h12.genruntimeconfig.cache
+C:\Users\leandro.santos\Documents\Programando C#\Nova pasta\h12\h12\obj\Debug\net8.0\ref\h12.dll
